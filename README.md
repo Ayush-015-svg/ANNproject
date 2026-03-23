@@ -45,3 +45,7 @@ This project demonstrates different types of neural networks:
 ---
 
 ## 👤 Author
+ANAV M RAI
+AYUSH S
+DRUSHYA M P
+MONISH VINAYAK
